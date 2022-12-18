@@ -1,0 +1,16 @@
+
+{
+    "id": "journal-directory-pages",
+    "name": "journal-directory-pages",
+    "title": "Journal Directory Pages",
+    "description": "Shows Pages in the journal directory",
+    "author": "Xaukael",
+    "version": "1.0.0",
+    "minimumCoreVersion": "10",
+    "compatibleCoreVersion": "10",
+    "scripts": ["journal-directory-pages.js"],
+    "dependencies": [],
+    "url": "https://github.com/xaukael/journal-directory-pages/",
+    "manifest": "https://github.com/xaukael/journal-directory-pages/raw/main/module.json",
+    "download": "https://github.com/xaukael/journal-directory-pages/raw/main/ffs.zip"
+}
